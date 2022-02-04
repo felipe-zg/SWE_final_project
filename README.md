@@ -2,7 +2,7 @@
 
 # We chose to use a BAAS as our backend to improve time spent and project costs
 
-## The BAAS used is Firebase
+## The BAAS used is Google Firebase
 
 ### Pods
 - Firebase Auth - For authentication
