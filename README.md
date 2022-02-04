@@ -9,4 +9,4 @@
 - Firebase FireStore - For Data persistance
 
 
-# Prints of the appication are in the "App prints"
+# Prints of the appication are available in the "App prints" folder
